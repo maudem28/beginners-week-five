@@ -4,4 +4,45 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+  font-family: courier;
+}
+
+p {
+  font-family: courier;
+}
+
+.modal-button-container {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.navbar {
+  font-family: courier;
+  background-color: yellow;
+}
+
+button {
+  text-align: center;
+  font-family: courier;
+  font-size: 20px;
+  border: 10px yellow;
+  border-radius: 12px;
+}
+
+.btn-primary {
+  background-color: #3399ff;
+  border: 5px yellow;
+  border-radius: 12px;
+}
+
+.btn-secondary {
+  background-color: yellow;
+  border: 5px yellow;
+}
+
+.d-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
